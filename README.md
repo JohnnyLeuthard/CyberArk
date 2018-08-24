@@ -2,6 +2,6 @@
 CyberArk modules
 
 
-Thimgs like REST API modules.
+Things like REST API modules.
 
 

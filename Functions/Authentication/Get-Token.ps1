@@ -123,8 +123,7 @@ $DemoCreds = Get-Credential -Message "User ID you want the token for"
 
 $sessionID = Get-RESTToken -Creds $DemoCreds
 
-　
-　test 1.2..3...
+
 #>
 
 　
